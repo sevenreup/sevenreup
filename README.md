@@ -1,4 +1,5 @@
-### Hi there 👋
+### Chill profile coming up 😅😅😅😅
+### Just need to get my mock up straight😌
 
 <!--
 **sevenreup/sevenreup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
