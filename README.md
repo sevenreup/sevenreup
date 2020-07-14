@@ -1,6 +1,39 @@
-### Chill profile coming up 😅😅😅😅
-### Just need to get my mock up straight😌
+# Christopher Phiri 😅😅😅😅
+I never miss the oportunnity to write code.
+Big fan of game delepoment but I havent done any project on such.
 
+> ⚡ Would like to contribute to any project, so if you want to connect say **hi**
+
+``` javascript
+const seven = {
+  name: 'Christopher Phiri',
+  laguanges: [
+    'Java',
+    'Javascript',
+    'Typescript',
+    'kotlin',
+    'PHP',
+    'CSS',
+    'C#'
+  ],
+  frameworks: [
+    'React',
+    'Vue',
+    'Redux',
+    'Express',
+    'Node.js',
+    'Electron'
+  ],
+  others: {
+    title: 'Stuff I like but dont do (😢🥺But would like to)',
+    stuff: [
+      'Game Development',
+      'AI'
+    ]
+  }
+}
+```
+![](media/jojo-gif.gif)
 <!--
 **sevenreup/sevenreup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
