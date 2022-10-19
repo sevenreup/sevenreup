@@ -33,6 +33,4 @@ const seven = {
   }
 }
 ```
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sevenreup)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenreup)](https://github.com/anuraghazra/github-readme-stats)
