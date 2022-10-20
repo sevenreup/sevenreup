@@ -2,7 +2,7 @@
 I never miss the oportunnity to write code.
 Big fan of game development but I havent done any project on such.
 
-[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenreup)](https://github.com/anuraghazra/github-readme-stats)
+[![Christopher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevenreup&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 > ⚡ Would like to contribute to any project, so if you want to connect say **hi**
 
