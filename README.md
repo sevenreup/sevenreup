@@ -1,4 +1,4 @@
-# Christopher Phiri 😅😅😅😅
+# Christopher Phiri
 I never miss the oportunnity to write code.
 Big fan of game development but I havent done any project on such.
 
@@ -10,24 +10,21 @@ Big fan of game development but I havent done any project on such.
 const seven = {
   name: 'Christopher Phiri',
   languages: [
-    'Java',
-    'Javascript',
     'Typescript',
     'kotlin',
-    'PHP',
-    'CSS',
-    'C#'
+    'Java',
+    'Golang',
+    'Javascript',
+    'C#',
   ],
   frameworks: [
     'React',
-    'Vue',
-    'Redux',
+    'Svelte',
     'Express',
-    'Node.js',
-    'Electron'
+    'Dotnet',
   ],
   others: {
-    title: 'Stuff I like but dont do (😢🥺But would like to)',
+    title: 'Stuff I like, but don't do (😢🥺But would like to)',
     stuff: [
       'Game Development',
       'AI'
